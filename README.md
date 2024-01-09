@@ -1,7 +1,7 @@
 # Zombie Valley Survival
  
 ## Overview:
-Zombie Valley is a first person horde shooter that combines tactical maneuvering, progression mechanisms, and in-game economy elements. Set in a valley with diverse terrains in the middle of the night, players must navigate through hordes of zombies that drop bullets and other pickups that help the player progress.
+Zombie Valley is a first person horde shooter built in Unity that combines tactical maneuvering, progression mechanisms, and in-game economy elements. Set in a valley with diverse terrains in the middle of the night, players must navigate through hordes of zombies that drop bullets and other pickups that help the player progress.
 
 Youtube video of gameplay with explanation:
 

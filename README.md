@@ -7,8 +7,6 @@ Youtube video of gameplay with explanation:
 
 <a href="https://www.youtube.com/watch?v=rHBnnvJ3Pfg" target="_blank"><img src="https://img.youtube.com/vi/rHBnnvJ3Pfg/0.jpg" alt="Gameplay Video"></a>
 
-[![Gameplay Video](https://img.youtube.com/vi/rHBnnvJ3Pfg/0.jpg)](https://www.youtube.com/watch?v=rHBnnvJ3Pfg)
-
 [Link to Itch.io (despite not rendering properly)](https://dy27.itch.io/sprint-3)
 
 [Download Zip from Google Drive](https://drive.google.com/file/d/17iCuQjZIc8bzvT0cT-tTulBkrISzqptu/view?usp=sharing)

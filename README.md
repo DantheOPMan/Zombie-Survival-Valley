@@ -3,6 +3,7 @@
 ## Overview:
 Zombie Valley is a first person horde shooter that combines tactical maneuvering, progression mechanisms, and in-game economy elements. Set in a valley with diverse terrains in the middle of the night, players must navigate through hordes of zombies that drop bullets and other pickups that help the player progress.
 
+### Youtube Video of gameplay with explanation:
 [![Gameplay Video](https://img.youtube.com/vi/rHBnnvJ3Pfg/0.jpg)](https://www.youtube.com/watch?v=rHBnnvJ3Pfg)
 
 [Link to Itch.io (despite not rendering properly)](https://dy27.itch.io/sprint-3)
